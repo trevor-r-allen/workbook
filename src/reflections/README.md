@@ -1,7 +1,7 @@
 # Find More About me here:
 
 ## Social Media
-  - [Connect on LinkedIn](https://linkedin.com)
+  - [Connect on LinkedIn](https://www.linkedin.com/in/trevor-rhoden-allen/)
 ## About Me
   - [My Github](https://github.com/trevor-r-allen)
   - [Portfolio](https://github.com)
