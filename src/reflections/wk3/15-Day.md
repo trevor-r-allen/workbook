@@ -1,12 +1,7 @@
 # Day 15
 __12/18/2020__
 
-## Thoughts on an Article About Beginner Mistakes
+## Week 3 Reflection
 
-### 
 
-### 
-
-### 
-
-#### Afternoon Lab: [Lab](lablink)
+#### Week 3 Checkpoint: [Checkpoint 3](https://trevor-r-allen.github.io/checkpoint3/)
