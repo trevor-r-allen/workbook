@@ -1,7 +1,7 @@
 # Day 13
 __12/16/2020__
 
-## Thoughts on an Article About Beginner Mistakes
+## Thoughts on JS Proxy Objects
 
 ### What are the two common operations that we will set in the handler?
 'Get' which is usedwhen accessing a key's value. 'Set' which is used when assigning a value to a key.

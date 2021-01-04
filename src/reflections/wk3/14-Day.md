@@ -1,7 +1,7 @@
 # Day 14
 __12/17/2020__
 
-## Thoughts on an Article About Beginner Mistakes
+## Thoughts on The Observer Pattern
 
 ### What problems does the observer patter seek to solve?
 The need to update the DOM with data as it is changed by events and inputs. Keeping many elements in sync.
