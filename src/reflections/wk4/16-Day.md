@@ -1,7 +1,7 @@
 # Day 16
 __01/04/2020__
 
-## Thoughts on an Article About Beginner Mistakes
+## Thoughts on 
 
 ### 
 
@@ -9,4 +9,4 @@ __01/04/2020__
 
 ### 
 
-#### Afternoon Lab: [Lab](lablink)
+#### Afternoon Lab: [Trivia API](https://trevor-r-allen.github.io/trivia-api/)
