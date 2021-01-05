@@ -9,4 +9,5 @@ __01/05/2020__
 
 ### 
 
-#### Afternoon Lab: [Lab](lablink)
+#### Afternoon Lab: [API Gregslist](https://trevor-r-allen.github.io/winter2020-api-gregslist/)
+####                [API Gregslist Code](https://github.com/trevor-r-allen/winter2020-api-gregslist)
