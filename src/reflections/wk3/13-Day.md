@@ -12,5 +12,4 @@ We have to make sure a value is returned in the handler. For example, the proper
 ### What are some of the benefits of the proxy object that we are using in our structure for applications?
 In the MVCS structure, proxys are used to 'listen' for changes/updates to specified data, allowing us to draw/update the DOM live with the new data.
 
-TODO add link
-#### Afternoon Lab: [GregsList2.0](lablink)
+#### Afternoon Lab: [GregsList2.0](https://trevor-r-allen.github.io/winter2020-mvc-gregslist/)

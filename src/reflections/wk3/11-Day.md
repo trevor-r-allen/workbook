@@ -12,5 +12,5 @@ When using 'export default' there can only be one export for that file. When usi
 ### What is a benefit of using the Module System?
 One benefit of the Module System is organization, as smaller files of specific function and purpose can be used. Exporting and importing code between these specific use files also has a positive imact on performance due to certain code not needing to exist in multiple places, or needing to run entire files just to access a specific function or bit of code.
 
-TODO add link
-#### Afternoon Lab: [Zookeeper](lablink)
+
+#### Afternoon Lab: [Zookeeper](https://github.com/trevor-r-allen/zookeeper)
