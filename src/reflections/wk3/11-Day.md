@@ -6,7 +6,7 @@ __12/14/2020__
 ### What problem does using exports solve?
 Normally, code is only available in the file it is written in, and to use it elsewhere you must rewrite it. With exports you can make code available for import and use in other modules.
 
-### How does 'export' differ from 'export default'?
+### How does `export` differ from `export default`?
 When using 'export default' there can only be one export for that file. When using regular named exports, multiple mayb be exported and and imported from the same file.
 
 ### What is a benefit of using the Module System?

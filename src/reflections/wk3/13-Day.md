@@ -6,7 +6,7 @@ __12/16/2020__
 ### What are the two common operations that we will set in the handler?
 'Get' which is usedwhen accessing a key's value. 'Set' which is used when assigning a value to a key.
 
-### What do you have to make sure you are doing with every 'Get' to insure the value does not become 'undefined'?
+### What do you have to make sure you are doing with every `get` to insure the value does not become `undefined`?
 We have to make sure a value is returned in the handler. For example, the property of the object being passed.
 
 ### What are some of the benefits of the proxy object that we are using in our structure for applications?

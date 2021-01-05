@@ -6,7 +6,7 @@ __01/05/2020__
 ### What are the three states of a `promise`?
 
 
-### How do `promise`s seek to resolve the issues of 'callback hell'?
+### How do `promise`s seek to resolve the issues of 'Callback Hell'?
 
 
 ### What is the difference between `.then()` and `.catch()`?
