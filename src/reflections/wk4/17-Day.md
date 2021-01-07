@@ -1,7 +1,7 @@
 # Day 17
 __01/05/2020__
 
-## Thoughts on an JS Promises
+## Thoughts on JS Promises
 
 ### What are the three states of a `promise`?
 
