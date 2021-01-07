@@ -9,4 +9,5 @@ __01/06/2020__
 
 ### 
 
-#### Afternoon Lab: [Lab](lablink)
+#### Afternoon Lab: [API Pokedex](https://trevor-r-allen.github.io/pokedex-api/)
+####                [API Pokedex Code](https://github.com/trevor-r-allen/pokedex-api)
