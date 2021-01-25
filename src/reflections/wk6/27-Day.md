@@ -12,5 +12,5 @@ __01/19/2020__
 ### Where can props be used or accessed?
 
 
-#### Afternoon Lab: []()
-####                [ Code]()
+#### Afternoon Lab: [NASA APOD Vue](https://trevor-r-allen.github.io/nasa-apod-vue/)
+####                [NASA APOD Vue Code](https://github.com/trevor-r-allen/nasa-apod-vue)
