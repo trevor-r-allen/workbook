@@ -4,5 +4,5 @@ __01/22/2020__
 ## Week 6 Reflection
 
 
-#### Week 6 Checkpoint: [Checkpoint 6]()
-####                    [Checkpoint 6 Code]()
+#### Week 7 BugTracker Checkpoint: [BugTracker Checkpoint]()
+####                    [BugTracker Checkpoint Code]()
