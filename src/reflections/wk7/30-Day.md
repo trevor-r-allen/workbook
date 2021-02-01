@@ -5,4 +5,4 @@ __01/22/2020__
 
 
 #### Week 7 BugTracker Checkpoint: [BugTracker Checkpoint]()
-####                    [BugTracker Checkpoint Code]()
+####                    [BugTracker Checkpoint Code](https://github.com/trevor-r-allen/bugtracker-checkpoint)
