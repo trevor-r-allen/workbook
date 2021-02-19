@@ -9,5 +9,4 @@ __02/18/2020__
 
 ### 
 
-#### Afternoon Lab: []()
-####                [ Code]()
+#### Afternoon Lab: [C# BurgerShack Code](https://github.com/trevor-r-allen/csharp-burgershack)

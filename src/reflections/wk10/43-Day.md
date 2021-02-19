@@ -9,5 +9,4 @@ __02/17/2020__
 
 ### 
 
-#### Afternoon Lab: []()
-####                [ Code]()
+#### Afternoon Lab: [C# GregsList Code](https://github.com/trevor-r-allen/csharp-gregslist)

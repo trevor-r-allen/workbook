@@ -9,5 +9,4 @@ __02/16/2020__
 
 ### 
 
-#### Afternoon Lab: []()
-####                [ Code]()
+#### Afternoon Lab: [C# Petshop Code](https://github.com/trevor-r-allen/winter20-petshop)
