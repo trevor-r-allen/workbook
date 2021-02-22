@@ -1,7 +1,7 @@
 # Day 44
 __02/18/2020__
 
-## Thoughts on
+## Thoughts on SQL
 
 ### In a SQL table, what is the difference between information in a row and information in a column?
 Information in an SQL table row represents an instance of a class, or an object. An SQL table column represents all the values of a specific property on all the instances of a class.
